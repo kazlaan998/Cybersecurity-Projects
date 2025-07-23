@@ -30,9 +30,8 @@ This project is a professional penetration testing assessment conducted in a loc
 
 ## 📂 Contents
 
-- `Report.pdf` – Full penetration testing report with commands, methodology, and recommendations.
+- `Report.pdf` – Full penetration testing report with commands, methodology, and recommendations and screenshots too.
 - `README.md` – Project summary and toolset overview.
-- `screenshots/` – *(Optional)* Screenshots from exploitation sessions.
 
 ---
 
